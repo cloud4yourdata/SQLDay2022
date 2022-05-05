@@ -1,0 +1,1 @@
+https://docs.microsoft.com/en-us/azure/databricks/sql/user/security/access-control/sql-endpoint-acl
