@@ -1,4 +1,4 @@
-# SQL 2022 Demo 3
+# SQL 2022 Demo 2
 
 ## Demo002_SurrogateKeys -Databricks
 
