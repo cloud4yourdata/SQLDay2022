@@ -8,7 +8,7 @@ Delta Lake is an open-source storage layer that brings improved reliability to t
 
 A **lakehouse** is a new DM paradigm that enables users to do everything from **BI, SQL analytics, data science, and ML** on a single platform.  
 
-The data **warehouse** approach isn’t future-proof because it’s missing support for predictions, real-time (streaming) data, flexible scalability, and managing raw data in any format  
+The data **warehouse** approach isn’t future-proof because it’s missing support for predictions, real-time (streaming) data, flexible scalability, and managing raw data in any format .
 
 
 
@@ -56,6 +56,14 @@ Lakehouses enables tools, such as Apache Drill and supports the direct connectio
 Data related security challenges are easier to handle with a simplified data flow and single source of truth approach. 
 
 
+
+## Spark Versions
+
+https://docs.microsoft.com/en-us/azure/databricks/release-notes/runtime/releases
+
+## SQL Endpoints
+
+https://docs.microsoft.com/en-us/azure/databricks/sql/user/security/access-control/sql-endpoint-acl
 
 ## Data Lake and Slowly changing dimensions
 
