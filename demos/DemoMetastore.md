@@ -4,11 +4,11 @@
 
 ##### Enable **Web Terminal**
 
-![Web Teminal](img/DBWebTerminal.png)
+![Web Teminal](../img/DBWebTerminal.png)
 
 #### Lunch Web Terminal (Compute->Cluster->Apps->Lunch Web Terminal)
 
-![Lunch Web Terminal](img/DBLaunchWebTerminal.png)
+![Lunch Web Terminal](../img/DBLaunchWebTerminal.png)
 
 ##### Open hive config
 
