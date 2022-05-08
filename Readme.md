@@ -116,7 +116,7 @@ Access control requires the Premium plan (or, for customers who subscribed to Da
 
 https://docs.databricks.com/security/access-control/table-acls/object-privileges.html
 
-Row Level Security
+**Row Level Security**
 
 ***current_user()***: return the current user name.
 *i**s_member()***: determine if the current user is a member of a specific Databricks group.
