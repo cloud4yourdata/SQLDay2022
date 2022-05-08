@@ -61,6 +61,10 @@ Data related security challenges are easier to handle with a simplified data flo
 
 https://docs.microsoft.com/en-us/azure/databricks/release-notes/runtime/releases
 
+https://databricks.com/blog/2021/03/02/introducing-apache-spark-3-1.html
+
+https://databricks.com/blog/2021/10/19/introducing-apache-spark-3-2.html
+
 ## SQL Endpoints
 
 https://docs.microsoft.com/en-us/azure/databricks/sql/user/security/access-control/sql-endpoint-acl
